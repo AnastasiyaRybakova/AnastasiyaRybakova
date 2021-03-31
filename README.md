@@ -4,12 +4,9 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/AnastasiyaRybakova">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/AnastasiyaRybakova">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mine GitHub Stats" />
-</a>
+[![Anastasiya's github stats](https://github-readme-stats.vercel.app/api?username=anastasiyaRybakova&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiyaRybakova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## 📫 How to reach me: Please use the way you feel fine with by picking one of the badges below 👇🏻
