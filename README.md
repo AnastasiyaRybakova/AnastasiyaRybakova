@@ -9,6 +9,6 @@
 - 👯 I’m looking to collaborate with other
 - 🥅 2021 Goals: Study and contribute to Opensource projects
 - ⚡ Fun fact: I love to travel, music, psychology, and books. Psychology and machine build engineer, where is connection
-- 💬 True fact: self-studied of the coaching and psychology, and making own YouTube channel
+- 💬 True fact: additional education of the coaching and psychology, managment, and making own YouTube channel
 - 📫 How to reach me: Please use the way you feel fine with by picking one of the badges below 👇🏻
 
