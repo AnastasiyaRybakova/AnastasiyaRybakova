@@ -1,5 +1,7 @@
 ### Hi there, I'm Anastaisya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+### Nice to see you here on my GitHub 🙂
+
 ## I’m a Ph.D. student in the field of social robotics, open fo rthe new fields, studying to become a devoper, and Manager of my life!
 
 - 🔭 I’m currently working on a manipulator robot 🤖
