@@ -22,7 +22,7 @@
 <img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 
 ### 📫 How to reach me: Please use the way you feel fine with by picking one of the badges
-👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻
+👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻
 
 [![Linkedin Badge](https://img.shields.io/badge/-ary-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anastasiya-rybakova-9aa4121b6/)](https://www.linkedin.com/in/anastasiya-rybakova-9aa4121b6/)
 [![Instagram Badge](https://img.shields.io/badge/-@anastasiyar13-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/anastasiyar13/?hl=en)](https://www.instagram.com/anastasiyar13/?hl=en)
