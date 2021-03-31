@@ -2,6 +2,12 @@
 
 ### Nice to see you here on my GitHub 🙂
 
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anastasiya-rybakova-9aa4121b6/)](https://www.linkedin.com/in/anastasiya-rybakova-9aa4121b6/)
+[![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/anastasiyar13/?hl=en)](https://www.instagram.com/anastasiyar13/?hl=en)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arydong13@gmail.com)](mailto:arydong13@gmail.com)
+[![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/anastasiya.rybakova.965)](https://www.facebook.com/cheolwoo.lee.1004)
+
+
 ## I’m a Ph.D. student in the field of social robotics, open fo rthe new fields, studying to become a devoper, and Manager of my life!
 
 - 🔭 I’m currently working on a manipulator robot 🤖
@@ -15,6 +21,5 @@
 - 📫 How to reach me: Please use the way you feel fine with by picking one of the badges below 👇🏻
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arydong13@gmail.com)](mailto:arydong13@gmail.com)
-[![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/anastasiya.rybakova.965)](https://www.facebook.com/cheolwoo.lee.1004)
+
 
