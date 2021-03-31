@@ -12,5 +12,7 @@
 - 💬 True fact: additional education of the coaching and psychology, managment, and making own YouTube channel
 - 📫 How to reach me: Please use the way you feel fine with by picking one of the badges below 👇🏻
 
-Gmail Group Blog Personal Blog Portfolio Notion Facebook 
+
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arydong13@gmail.com)](mailto:arydong13@gmail.com)
+[![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/anastasiya.rybakova.965)](https://www.facebook.com/cheolwoo.lee.1004)
 
