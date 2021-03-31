@@ -1,6 +1,6 @@
 ### Hi there, I'm Anastaisya👋
 
-## I’m a Ph.D. student of sHRI-lab in Korea, Doing hard to become a devoper, and Manager of my life!
+## I’m a Ph.D. student in the field of social robotics, open fo rthe new fields, studying to become a devoper, and Manager of my life!
 
 - 🔭 I’m currently working on a manipulator robot 🤖
 - 👨‍💻 New is aOS Software Engineer at my home🏠
