@@ -12,3 +12,5 @@
 - 💬 True fact: additional education of the coaching and psychology, managment, and making own YouTube channel
 - 📫 How to reach me: Please use the way you feel fine with by picking one of the badges below 👇🏻
 
+Gmail Group Blog Personal Blog Portfolio Notion Facebook 
+
