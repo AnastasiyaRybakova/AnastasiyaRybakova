@@ -1,7 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Anastaisya👋
 
-<!--
-**AnastasiyaRybakova/AnastasiyaRybakova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I’m a Ph.D. student of sHRI-lab in Korea, Doing hard to become a devoper, and Manager of my life!
+
+- 🔭 I’m currently working on a manipulator robot 🤖
+- 👨‍💻 Junior aOS Software Engineer at my home🏠
+- 📍👨‍🗺️ RIght now in Seoul, South Korea.
+- 🌱 I’m currently learning everything as much as possibble 📚 
+- 👯 I’m looking to collaborate with other
+- 🥅 2021 Goals: Study and contribute to Opensource projects
+- ⚡ Fun fact: I love to travel, music, psychology, and books
+- ⚡ Fun fact: ...
+- 📫 How to reach me: ...
+
 
 Here are some ideas to get you started:
 
