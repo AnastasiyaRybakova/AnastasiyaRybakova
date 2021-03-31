@@ -1,4 +1,4 @@
-### Hi there, I'm Anastaisya👋
+### Hi there, I'm Anastaisya👋 ![](https://cliply.co/clip/waving-hand/)
 
 ## I’m a Ph.D. student in the field of social robotics, open fo rthe new fields, studying to become a devoper, and Manager of my life!
 
