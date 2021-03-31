@@ -8,7 +8,7 @@
 [![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/anastasiya.rybakova.965)](https://www.facebook.com/cheolwoo.lee.1004)
 
 
-## I’m a Ph.D. student in the field of social robotics, open fo rthe new fields, studying to become a devoper, and Manager of my life!
+## I’m a Ph.D. student in the field of social robotics, open for the new fields, studying to become a devoper, and Manager of my life!
 
 - 🔭 I’m currently working on a manipulator robot 🤖
 - 👨‍💻 New is aOS Software Engineer at my home🏠
