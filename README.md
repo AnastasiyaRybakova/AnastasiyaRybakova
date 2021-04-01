@@ -5,7 +5,7 @@
 ## &#x1f4c8; GitHub Stats
 
 [![Anastasiya's github stats](https://github-readme-stats.vercel.app/api?username=anastasiyaRybakova&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiyaRybakova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiyaRybakova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I’m a Ph.D. student in the field of social robotics, open for the new fields, studying to become a devoper, and Manager of my life!
 
