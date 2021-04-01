@@ -5,7 +5,7 @@
 ## &#x1f4c8; GitHub Stats
 
 
-![Anastasiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastasiyarybakova&show_icons=true&theme=onedark)] (https://github.com/anuraghazra/github-readme-stats) 
+![Anastasiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastasiyarybakova&show_icons=true&theme=onedark)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiyaRybakova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
