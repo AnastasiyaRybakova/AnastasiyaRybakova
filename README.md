@@ -30,7 +30,3 @@
 [![Instagram Badge](https://img.shields.io/badge/-@anastasiyar13-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/anastasiyar13/?hl=en)](https://www.instagram.com/anastasiyar13/?hl=en)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arydong13@gmail.com)](mailto:arydong13@gmail.com)
 [![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/anastasiya.rybakova.965)](https://www.facebook.com/cheolwoo.lee.1004)
-
-
-[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=anastasiyarybakova&repo=android_example&show_owner=true)](https://github.com/facebook/react
-
