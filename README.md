@@ -10,7 +10,7 @@
 ## I’m a Ph.D. student in the field of social robotics, open for the new fields, studying to become a devoper, and Manager of my life!
 
 - 🔭 I’m currently working on a manipulator robot 🤖
-- 👨‍💻 New is aOS Software Engineer at my home🏠
+- 👨‍💻 I am new in AOS Software Engineer at my home🏠
 - 📍👨‍🗺️ Right now in Seoul, South Korea.
 - 🌱 I’m currently learning everything as much as possibble 📚 
 - 👯 I’m looking to collaborate with other
