@@ -15,7 +15,7 @@
 - 👨‍💻 I am new in AOS Software Engineer at my home🏠
 - 📍👨‍🗺️ Right now in Seoul, South Korea.
 - 🌱 I’m currently learning everything as much as possibble 📚 
-- 👯 I’m looking to collaborate with other
+- 👯 I’m looking to collaborate with others
 - 🥅 2021 Goals: Study and contribute to Opensource projects
 - ⚡ Fun fact: I love to travel, music, psychology, and books. Psychology and machine build engineer, where is connection
 - 💬 True fact: additional education of the coaching and psychology, managment, and making own YouTube channel
