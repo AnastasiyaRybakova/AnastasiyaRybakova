@@ -6,7 +6,7 @@
 
 
 ![Anastasiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastasiyarybakova&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiyarybakova&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastasiyarybakova&layout=compact&theme=onedark&langs_count=100&hide=Makefile,Shell)
 
 
 ## I’m a Ph.D. student in the field of social robotics, open for the new fields, studying to become a devoper, and Manager of my life!
@@ -30,3 +30,4 @@
 [![Instagram Badge](https://img.shields.io/badge/-@anastasiyar13-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/anastasiyar13/?hl=en)](https://www.instagram.com/anastasiyar13/?hl=en)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arydong13@gmail.com)](mailto:arydong13@gmail.com)
 [![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/anastasiya.rybakova.965)](https://www.facebook.com/cheolwoo.lee.1004)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnastasiyaRybakova%2FAnastasiyaRybakova&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
