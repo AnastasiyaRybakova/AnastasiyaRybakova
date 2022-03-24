@@ -20,8 +20,6 @@
 - ⚡ Fun fact: I love to travel, music, psychology, and books. Psychology and machine build engineer, where is connection
 - 💬 True fact: additional education of the coaching and psychology, managment, and making own YouTube channel
 
-  ## What am I looking forward to in 2021? :tada: :sunglasses: :confetti_ball:
-<img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 
 ### 📫 How to reach me: Please use the way you feel fine with by picking one of the badges
 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻 👇🏻
