@@ -11,9 +11,6 @@ I design and evaluate intelligent robotic systems integrating manipulation, comp
 - Emotion recognition (CNN + VLM frameworks)
 - Multimodal AI systems
 
-🤖 Currently working on:
-Robotic manipulator architectures for interactive learning environments.
-
 📍 Based in Seoul, South Korea  
 🌍 Open to collaboration and industry opportunities  
 
